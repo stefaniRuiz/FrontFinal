@@ -1,0 +1,155 @@
+[
+    {
+        "id":"1",
+        "nome": "Amikuk",
+        "descricao": "Uma gosma carmesim cobre esta criatura. Seus minúsculos olhos negros ficam em uma cabeça anormalmente grande, e dezenas de dentes afiados preenchem sua pequena boca. Seus membros terminam em grandes garras.",
+        "tipo": "Aberração",
+        "img":"img/amikuk.png"
+    },
+    {   "id":"2",
+        "nome": "Alpamac",
+        "descricao":"Fera quimérica com corpo de truta e garras dianteiras e cabeça de um carcaju feroz surge da água gelada. Seus olhos brilham com uma luz verde brilhante. O Alpamac é um perigoso predador de água doce, nativo de lagos e rios. ",
+        "tipo": "Monstruosidade",
+        "img":"img/alpamac.png"
+    },
+    {   "id":"3",
+        "nome":"Berserker",
+        "descricao": "O monstro exala uma aura de poder e ameaça. Com uma presença imponente e uma postura de combate, ele parece sempre pronto para atacar. Sua maior habilidade é de stealth.",
+        "tipo":"monstro",
+        "img":"img/berserker.png"
+    },
+    {   "id": "4",
+        "nome": "Abbanith",
+        "descricao": "Este gigante tem um corpo volumoso e musculoso e olhos pequenos em seu rosto largo e achatado. Os polegares do gigante terminam em grandes garras pretas.",
+        "tipo":"Gigante",
+        "img":""
+    },
+    {   
+        "id":"5",
+        "nome":"Mutant",
+        "descricao":"grotesco mutante sendo uma criatura com grandes músculos, múltiplos olhos na forma retorcida que tende a se definhar.Sua pele é áspera e irregular coberta por uma cicatriz.",
+        "img":"img/mutant.png"
+    },
+    {   
+        "id":"6",
+        "nome":"Godzilla",
+        "descricao":"é conhecido por sua aparência semelhante a um dinossauro, coberto com placas peculiares nas costas, capaz de disparar uma forma de fogo ou raio atômico pela boca e também por ser quase indestrutível.",
+        "tipo":"Réptil anfíbio pré-histórico",
+        "img":"img/godzilla.png"
+    },
+    {
+        "id":"7",
+        "nome":"Lobisomen",
+        "descricao":"é um ser lendário que é descrito como um humano capaz de se transformar em lobo ou em algo semelhante a um lobo em noites de lua cheia e sai em busca de vítimas para poder alimentar-se do sangue delas, ou simplesmente matá-las.",
+        "tipo":"Aberração",
+        "img":"img/lobisomen.png"
+    },
+    {
+        "id":"8",
+        "nome":"Frankenstein",
+        "descricao":"um ser com a pele amarelada, cabelos longos de um negro lustroso, dentes proeminentes e estatura elevada cerca de 2,5 metros.",
+        "tipo":"golem de carne humana, criado cientificamente",
+        "img":"img/frankenstein.png"
+    },
+    {
+        "id":"9",
+        "nome":"Menesis",
+        "descricao":"Nemesis é uma arma bio-orgânica criada pela Umbrella Corporation como uma forma de supersoldado. Desenvolvido como um aprimoramento do último ser da Umbrella, Tyrant, Nemesis pode usar armas e pensar de forma independente.",
+        "tipo":"arma bio-orgânica",
+        "img":"img/nemesis.jpg"   
+    },
+    {
+        "id":"10",
+        "nome": "Pyramid head",
+        "descricao": "geralmente eles são retratados como sendo os monstros mais violentos e que transmitem mais terror ao jogador. Um significado mais profundo dado a eles explica sua existência como carrascos e algozes de quem enfrentam.",
+        "tipo":"aberração",
+        "img":"img/pyramid.png"
+    },
+    {
+        "id":"11",
+        "nome":"Revenant",
+        "descricao":"cadáver animado, em que se acredita ter sido revivido da morte para assombrar os vivos.",
+        "tipo":"morto-vivo",
+        "img":"img/revenant.png"
+    },
+    {
+        "id":"12",
+        "nome": "Licker",
+        "descricao":"com patas enormes e um cérebro à mostra, Licker apareceu para aterrorizar os jogadores de Resident Evil. São criaturas letais em combate a curta distância e foram criados a partir do T-vírus.",
+        "tipo":"vírus",
+        "img":"img/licker.png"
+    },
+    {
+        "id":"13",
+        "nome": "Willian Birkin",
+        "descricao":"William Birkin é o principal antagonista de Resident Evil 2, sendo um dos cientistas criadores do T-vírus, que acabou causando o desastre zumbi em Raccon City. Ele, em seguida, criou o G-vírus.",
+        "tipo":"mutante",
+        "img" :"img/williamBirkin.png"
+    },
+
+    {
+        "id":"14",
+        "nome":"Scagdead",
+        "descricao":"Scagdead é um monstro que aparece em Resident Evil: Revelations. É um tipo de criatura infectada pelo T-Abyss vírus, sendo um dos inimigos mais perigosos do jogo.",
+        "tipo":"humanoide",
+        "img":"img/scagdead.jpg"
+    },
+    {
+        "id":"15",
+        "nome":"Lisa",
+        "descriicao":"Lisa Trevor aparece pela primeira vez em Resident Evil Remake (2002), como a filha desaparecida do arquiteto George Trevor que projetou a mansão em que ocorre a maior parte do jogo.",
+        "tipo":"aberração",
+        "img":"img/LisaTrevor.jpg"
+    },
+    {
+        "id":"16",
+        "nome":"Fetulho",
+        "descricao":"O fetulho é um monstro que surge a partir do enterro impróprio de um natimorto não quisto e ataca mulheres grávidas.",
+        "tipo":"demônio",
+        "img":"img/fetulho.png"
+    },
+    {
+        "id":"17",
+        "nome": "Enderman",
+        "descricao": "são criaturas negras, neutras do The End que têm a habilidade de se teleportar. Possuem corpo antropomórfico esbelto, sua pele é preta, seus braços e pernas são compridos e finos.",
+        "tipo":"mob",
+        "img":"img/enderman.png"
+    },
+    {
+        "id":"18",
+        "nome": "Ganon",
+        "descricao": "Ganon (ガノン) também conhecido como Ganondorf (ガノンドロフ Ganondorofu) em sua forma Gerudo, é o principal antagonista da série de jogos The Legend of Zelda. ",
+        "tipo":"humanoide",
+        "img":"img/ganon.png"
+    },
+    {
+        "'id":"19",
+        "nome":"Creeper",
+        "descricao":"Um creeper é uma criatura hostil comum que se aproxima silenciosamente dos jogadores e então explode, o que pode destruir blocos e causar grandes quantidades de dano.",
+        "tipo":"mob",
+        "img":"img/creeper.png"
+    },
+    {
+        "id":"20",
+        "nome":"Deathclaw",
+        "descricao":"Os Deathclaws são enormes bestas reptilianas, originalmente criadas como armas biológicas pelos militares dos EUA.",
+        "tipo":"humanoide",
+        "img":"img/Deatclaw.png"
+    },
+    {
+        "id":"20",
+        "nome":"Stefani",
+        "descricao":"",
+        "tipo":"humanoide",
+        "img":"img/stefani.png"
+    },
+    {
+        "id":"21",
+        "nome":"Colossos",
+        "descricao":"são criaturas imponentes feitas de pedra e pelo escuro (algumas vezes musgo) que lembra grama. Exigem do jogador raciocínio para achar seus pontos vitais e tirar partido deles.",
+        "tipo":"monstro",
+        "img":"img/colossos.png"
+    }
+    
+
+]

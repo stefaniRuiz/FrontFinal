@@ -1,0 +1,68 @@
+#barra-nav {
+	padding: 1rem ;
+	background-color: var(--rosa-claro);
+	position: fixed;
+	left: 0;
+	top: 0;
+	whidth: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-itens: center;
+	z-index: 1000;
+
+	cursor: url('img/hover.png') , auto;
+}
+
+/* customização da hero image*/
+.hero-texto {
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 60%;
+	transform:translate(-50%, -50%);
+	color: white;
+	font-family: var(--fonte-pricipal: 'Dosis', sans-serif);
+}
+
+.bigimage {
+	height: 100vh;
+	position: relative;
+	background: url("img/parede.jpg");
+	background-size: cover;
+}
+
+.hero-titulo {
+	font-size: 4,5 rem;
+	font-family: var(--fonte-secundaria);
+}
+.hero-sub {
+	font-size: 2rem;
+	color: var(--roxo-escuro);
+	font-family: var(--fonte-pricipal);
+
+
+
+
+/*customização da coluna de apresentação*/
+
+
+
+h2 {
+	padding: 1rem 0;
+	color: white;
+	font-family: var(--fonte-pricipal);
+}
+
+
+.botão {
+	text-decoration: none;
+	color: white;
+	
+}
+
+.botão:hover {
+	
+	background-color: var(--rosa-claro);
+	color: red;
+	cursor: pointer;
+}
