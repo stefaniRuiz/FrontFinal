@@ -92,7 +92,7 @@
         "nome":"Scagdead",
         "descricao":"Scagdead é um monstro que aparece em Resident Evil: Revelations. É um tipo de criatura infectada pelo T-Abyss vírus, sendo um dos inimigos mais perigosos do jogo.",
         "tipo":"humanoide",
-        "img":"img/scagdead.jpg"
+        "img":"img/scagdead.png"
     },
     {
         "id":"15",
@@ -141,7 +141,7 @@
         "nome":"Stefani",
         "descricao":"",
         "tipo":"humanoide",
-        "img":"img/stefani.png"
+        "img":"img/sobre.png"
     },
     {
         "id":"21",
