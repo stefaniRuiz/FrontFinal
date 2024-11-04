@@ -97,7 +97,7 @@
     {
         "id":"15",
         "nome":"Lisa",
-        "descriicao":"Lisa Trevor aparece pela primeira vez em Resident Evil Remake (2002), como a filha desaparecida do arquiteto George Trevor que projetou a mansão em que ocorre a maior parte do jogo.",
+        "descricao":"Lisa Trevor aparece pela primeira vez em Resident Evil Remake (2002), como a filha desaparecida do arquiteto George Trevor que projetou a mansão em que ocorre a maior parte do jogo.",
         "tipo":"aberração",
         "img":"img/LisaTrevor.jpg"
     },
@@ -118,12 +118,12 @@
     {
         "id":"18",
         "nome": "Ganon",
-        "descricao": "Ganon (ガノン) também conhecido como Ganondorf (ガノンドロフ Ganondorofu) em sua forma Gerudo, é o principal antagonista da série de jogos The Legend of Zelda. ",
+        "descricao":"Ganon (ガノン) também conhecido como Ganondorf (ガノンドロフ Ganondorofu) em sua forma Gerudo, é o principal antagonista da série de jogos The Legend of Zelda. ",
         "tipo":"humanoide",
         "img":"img/ganon.png"
     },
     {
-        "'id":"19",
+        "id":"19",
         "nome":"Creeper",
         "descricao":"Um creeper é uma criatura hostil comum que se aproxima silenciosamente dos jogadores e então explode, o que pode destruir blocos e causar grandes quantidades de dano.",
         "tipo":"mob",
