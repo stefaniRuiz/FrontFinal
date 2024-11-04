@@ -43,7 +43,7 @@ fetch('arrayJson')// faz o pedido assícrono
 }
 */
 
-fetch('arrayJson')
+fetch('/arrayJson')
 .then( resposta => {
   return resposta.json()
 })
@@ -64,7 +64,7 @@ function listaMonstros() {
 let nome = txNome.value;
 txNome.value = ''
 
-fetch('arrayJson')// faz o pedido assícrono
+fetch('/arrayJson')// faz o pedido assícrono
   .then( res => res.json())
   .then( listaCompleta => { 
       const listaFiltrada = listaCompleta.filter(monstro =>
